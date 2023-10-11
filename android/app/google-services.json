@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21619564498",
+    "project_id": "inspiro-quotes-907e0",
+    "storage_bucket": "inspiro-quotes-907e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21619564498:android:5af0f30848dcc7e807720b",
+        "android_client_info": {
+          "package_name": "com.example.inspiro_quotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX7M7pUGYNrXicEDpWdQcueFtFeqA5WDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
